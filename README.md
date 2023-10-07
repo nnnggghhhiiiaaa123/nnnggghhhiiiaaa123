@@ -1,7 +1,8 @@
 <div align="center">
-<h3> ### Hi there 👋</h3>
-</div>
+  <h2> <img src="https://readme-typing-svg.demolab.com??font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+world+👋!!!;My+name+is+Nghia+" /></h2>
+  <h3 align="center">A passionate software developer from Vietnam 🇻🇳</h3>
 <br/>
+<div align="center" >
 <div align="center">
  🐍 My Contributions 🐍
   <img alt="snake eating my contributions" src="https://github.com/nnnggghhhiiiaaa123/salesp07/blob/output/github-contribution-grid-snake.svg" />
