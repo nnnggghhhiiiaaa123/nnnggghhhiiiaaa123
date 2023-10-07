@@ -1,5 +1,8 @@
-### Hi there 👋
-
+<div align="center">
+<h3> ### Hi there 👋</h3>
+</div>
+<br/>
+<div align="center">
  🐍 My Contributions 🐍
   <img alt="snake eating my contributions" src="https://github.com/nnnggghhhiiiaaa123/salesp07/blob/output/github-contribution-grid-snake.svg" />
   </div>
