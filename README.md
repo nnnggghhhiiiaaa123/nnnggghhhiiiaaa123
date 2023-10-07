@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+ 🐍 My Contributions 🐍
+  <img alt="snake eating my contributions" src="https://github.com/nnnggghhhiiiaaa123/salesp07/blob/output/github-contribution-grid-snake.svg" />
+  </div>
 <!--
 **nnnggghhhiiiaaa123/nnnggghhhiiiaaa123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
